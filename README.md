@@ -12,18 +12,18 @@ I love learning by **building projects**, participating in hackathons, and exper
 ---
 
 ## 🚀 Featured Projects
-Here are a few things I’ve been working on:
+Here are a few things I’ve worked on:
 
-- 🌍 **Senteroid** – Interactive asteroid impact simulator built for the *NASA Space App Challenge*  
-- 🧭 **Youth-link** – AI-powered youth employment & career roadmap platform  
-- 🍽️ **DineSmart** – Smart dining-related application (Java-based)  
-- 📒 **Scrapbook** – A creative web project  
-- ⏱️ **Focusify** – Productivity web app with a built-in Pomodoro timer  
-- 🍽️ **Pocket-Plate** – A JavaScript-based food-related project  
+- **Senteroid** – Interactive asteroid impact simulator built for the *NASA Space App Challenge*  
+- **Youth-link** – AI-powered youth employment & career roadmap platform  
+- **DineSmart** – Smart dining-related application (Java-based)  
+- **Scrapbook** – A creative web project  
+- **Focusify** – Productivity web app with a built-in Pomodoro timer  
+- **Pocket-Plate** – A JavaScript-based food-related project  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** JavaScript, Java, CSS  
 - **Web:** HTML, CSS, Frontend Frameworks  
 - **AI/ML:** Exploring Machine Learning & Deep Learning concepts  
@@ -31,14 +31,14 @@ Here are a few things I’ve been working on:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced JavaScript & frontend architecture  
 - Machine Learning & Deep Learning fundamentals  
 - Building scalable, user-focused applications  
 
 ---
 
-## ✨ Interests
+## Interests
 - Hackathons & collaborative projects  
 - AI for social impact  
 - Clean UI & meaningful user experiences  
