@@ -5,13 +5,13 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I’m someone who enjoys building meaningful tech — from interactive web applications to AI-powered platforms aimed at real-world impact.  
 I love learning by **building projects**, participating in hackathons, and experimenting with new ideas at the intersection of **technology and creativity**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 Here are a few things I’ve worked on:
 
 - **Senteroid** – Interactive asteroid impact simulator built for the *NASA Space App Challenge*  
