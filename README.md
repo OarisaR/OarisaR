@@ -4,20 +4,6 @@
 
 ---
 
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Senteroid](#) | Asteroid impact simulator — NASA Space Apps Challenge | JavaScript |
-| [Youth-link](#) | AI career roadmap platform for youth employment | AI/ML |
-| [Focusify](#) | Productivity app with Pomodoro timer | JavaScript |
-| [DineSmart](#) | Smart dining application | Java |
-| [RAG From Zero](#) | Built a full RAG pipeline from scratch to LangChain | Python, LangChain |
-| [Pocket-Plate](#) | Food app | JavaScript |
-
----
-
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
