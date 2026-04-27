@@ -1,7 +1,5 @@
 # Hey, I'm Oarisa 
 
-![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat)
-
 > Building things to understand them — web apps, AI systems, and everything in between.
 
 ---
