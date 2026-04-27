@@ -1,51 +1,60 @@
-# Hi, I'm Oarisa 👋  
+# Hey, I'm Oarisa 
 
-🌱 **Exploring the world of Web Development, AI, and Machine Learning**  
-🎓 Developer | Problem Solver | Curious Learner  
+![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat)
 
----
-
-## About Me
-I’m someone who enjoys building meaningful tech — from interactive web applications to AI-powered platforms aimed at real-world impact.  
-I love learning by **building projects**, participating in hackathons, and experimenting with new ideas at the intersection of **technology and creativity**.
+> Building things to understand them — web apps, AI systems, and everything in between.
 
 ---
+
 
 ## Featured Projects
-Here are a few things I’ve worked on:
 
-- **Senteroid** – Interactive asteroid impact simulator built for the *NASA Space App Challenge*  
-- **Youth-link** – AI-powered youth employment & career roadmap platform  
-- **DineSmart** – Smart dining-related application (Java-based)  
-- **Scrapbook** – A creative web project  
-- **Focusify** – Productivity web app with a built-in Pomodoro timer  
-- **Pocket-Plate** – A JavaScript-based food-related project  
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Senteroid](#) | Asteroid impact simulator — NASA Space Apps Challenge | JavaScript |
+| [Youth-link](#) | AI career roadmap platform for youth employment | AI/ML |
+| [Focusify](#) | Productivity app with Pomodoro timer | JavaScript |
+| [DineSmart](#) | Smart dining application | Java |
+| [RAG From Zero](#) | Built a full RAG pipeline from scratch to LangChain | Python, LangChain |
+| [Pocket-Plate](#) | Food app | JavaScript |
 
 ---
 
 ## Tech Stack
-- **Languages:** JavaScript, Java, CSS  
-- **Web:** HTML, CSS, Frontend Frameworks  
-- **AI/ML:** Exploring Machine Learning & Deep Learning concepts  
-- **Tools:** Git, GitHub, VS Code  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Currently Learning
-- Advanced JavaScript & frontend architecture  
-- Machine Learning & Deep Learning fundamentals  
-- Building scalable, user-focused applications  
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OarisaR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OarisaR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OarisaR&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
-## Interests
-- Hackathons & collaborative projects  
-- AI for social impact  
-- Clean UI & meaningful user experiences  
+## 🌱 Currently Learning
+
+- RAG systems and LLM pipelines
+- Advanced JavaScript and frontend architecture  
+- Machine Learning and Deep Learning fundamentals
 
 ---
 
-## 📫 Let’s Connect
-Feel free to explore my repositories or reach out — I’m always open to learning, collaboration, and new ideas!
+## 📫 Let's Connect
 
-⭐ *If you like my work, consider giving a star!*
+[![GitHub](https://img.shields.io/badge/GitHub-OarisaR-181717?style=for-the-badge&logo=github)](https://github.com/OarisaR)
+
+⭐ *If you find my work interesting, drop a star!*
