@@ -2,7 +2,7 @@
 
 # Hi, I'm Oarisa
 
-**Full Stack Developer • AI System Builder**
+**Full Stack Developer • AI/RAG Systems Builder**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
@@ -36,26 +36,27 @@ Converts dense **lecture notes, papers, and textbook chapters** into interactive
 
 ## Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & AI** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,py,react,fastapi,html,css,git,github" />
+</a>
+</p>
+
+*AI/ML tools used per-project (LangChain, Pinecone, Groq) are listed under each project above.*
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OarisaR&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" alt="Oarisa's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OarisaR&layout=compact&theme=default&hide_border=true&hide_title=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=OarisaR&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" alt="Oarisa's GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OarisaR&layout=compact&theme=default&hide_border=true&hide_title=true" height="165" alt="Top languages" />
 </div>
 
 ---
 
-## Connect
+## 🔗 Connect
 
-[GitHub](https://github.com/OarisaR) · [LinkedIn](https://www.linkedin.com/in/oarisa-rebayet-655326307/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/OarisaR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oarisa-rebayet-655326307/)
 
 If you find my work interesting, a star is always appreciated ⭐
