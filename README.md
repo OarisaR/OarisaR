@@ -2,7 +2,7 @@
 
 # Hi, I'm Oarisa
 
-**Full Stack Developer • AI/RAG Systems Builder**
+**Full Stack Developer • AI Systems Builder**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
@@ -41,8 +41,6 @@ Converts dense **lecture notes, papers, and textbook chapters** into interactive
 <img src="https://skillicons.dev/icons?i=js,py,react,fastapi,html,css,git,github" />
 </a>
 </p>
-
-*AI/ML tools used per-project (LangChain, Pinecone, Groq) are listed under each project above.*
 
 ---
 
