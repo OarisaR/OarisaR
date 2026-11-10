@@ -1,19 +1,9 @@
 <div align="center">
 
 # Hi, I'm Oarisa
-
-**Full Stack Developer • AI Systems Builder**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
----
-
-Final-year CS undergrad who'd rather ship something than just read about it. Between full stack apps and ML/AI side projects, I mostly build things to understand how they actually work under the hood.
-
----
-
 ## Featured Projects
 
 **[Maya](https://github.com/OarisaR/Maya)** — Smart Maternal Health Assistant
