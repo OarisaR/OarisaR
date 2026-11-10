@@ -4,6 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=OarisaR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+
 ## Featured Projects
 
 **[Maya](https://github.com/OarisaR/Maya)** — Smart Maternal Health Assistant
